@@ -20,6 +20,13 @@ Built With
     PHP
     Bootstrap
 
+Notes
+I think the instructions could have been more clearer as:
+- it was not clear who the final user is
+- the programming languages to use where not specified
+- the safety requirements were not specified 
+- it was not clear which fields should not be duplicated
+
 Authors
 
 Giorgio Lupo
